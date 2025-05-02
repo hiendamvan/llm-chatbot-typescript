@@ -20,6 +20,7 @@
     "dotenv": "^16.4.0",
     "iron-session": "^8.0.1",
     "langchain": "^0.1.28",
+    "llm-chatbot-typescript": "file:",
     "marked": "^10.0.0",
     "neo4j-driver": "^5.14.0",
     "next": "14.0.2",
